@@ -1,6 +1,6 @@
 # CampusX App Flow - Visual Guide
 
-## 📱 Complete User Journey
+## 📱 Complete User Journey mADE
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
